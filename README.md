@@ -15,7 +15,7 @@ Currently working as a **BIM Coordinator**, with over **4 years** of experience 
 - 📊 **BIM modeling & digitalization**
 - 🏗 **Construction project management**
 - 📄 **Technical documentation & regulatory compliance**
-- 🛠 **Software**: ArchiCAD, Navisworks, AutoCAD, 1C, MS Project, OpenProjcet,  Twinmotion, IDE.
+- 🛠 **Software**: ArchiCAD, Navisworks, AutoCAD, 1C, MS Project, OpenProject,  Twinmotion, IDE.
 
 Education:
 - 🎓 **Currently pursuing a degree in Software & Information Systems Development**
