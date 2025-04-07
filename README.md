@@ -1,4 +1,6 @@
 ## About Me
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 I'm passionate about software development for **MacOS, Windows, Android, and ESP32**. I also create **Telegram bots** and actively explore **web development and artificial intelligence**. My focus is on building small applications to **automate business processes** and improve efficiency.
 
 ## My Interests & Expertise
